@@ -4,7 +4,7 @@ public class SampleApp {
 
 	public static void main(String args[])
 	{
-		System.out.println("Cant Really Say");
+		System.out.println("Rainy Season");
 	}
 	
 	public void test()
